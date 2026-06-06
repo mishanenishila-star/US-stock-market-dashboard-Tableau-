@@ -67,17 +67,21 @@ An end-to-end stock market analytics dashboard tracking
 ---
 
 ## 🗃️ SQL Pipeline
-stock_dashboard (MySQL Database)
-├── Tables
-│   ├── stock_prices  (184,138 rows)
-│   ├── sp500         (353K rows)
-│   └── nasdaq100     (329K rows)
-└── Views
-    ├── vw_stocks
-    ├── vw_sp500_daily
-    └── vw_nasdaq_daily
+**Database:** `stock_dashboard` (MySQL 8.0)
 
-  ---
+**Tables:**
+| Table | Rows | Description |
+|-------|------|-------------|
+| `stock_prices` | 184,138 | Daily OHLCV stock data |
+| `sp500` | 353K | S&P 500 intraday data |
+| `nasdaq100` | 329K | NASDAQ 100 intraday data |
+
+**Views:**
+| View | Description |
+|------|-------------|
+| `vw_stocks` | Clean stock data for Tableau |
+| `vw_sp500_daily` | Daily aggregated S&P 500 |
+| `vw_nasdaq_daily` | Daily aggregated NASDAQ |
 
 ## 📸 Dashboard Screenshots
 
