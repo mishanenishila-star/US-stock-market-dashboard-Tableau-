@@ -93,14 +93,16 @@ stock_dashboard (MySQL Database)
 ---
 
 ## 📂 Repository Structure
-stock-market-dashboard-tableau/
-├── 01_create_tables.sql
-├── 02_load_data.sql
-├── 03_views.sql
-├── page1_market_overview.png
-├── page2_performance.png
-├── page3_deep_dive.png
-└── README.md
+
+| File | Description |
+|------|-------------|
+| `01_create_tables.sql` | MySQL database and table creation |
+| `02_load_data.sql` | Load CSV data into MySQL |
+| `03_views.sql` | Clean views for Tableau |
+| `page1_market_overview.png` | Market Overview dashboard screenshot |
+| `page2_performance.png` | Performance Analysis screenshot |
+| `page3_deep_dive.png` | Stock Deep Dive screenshot |
+| `README.md` | Project documentation |
 
 ---
 
