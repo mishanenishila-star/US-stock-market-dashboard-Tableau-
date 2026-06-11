@@ -114,6 +114,6 @@ An end-to-end stock market analytics dashboard tracking
 **Mishane Peirispulle**
 - 💼 Financial Data Analyst
 - 📧 mishane_peiris@yahoo.com
-- 🔗 [LinkedIn Profile]https://www.linkedin.com/in/mishane-nisila/
-- 🔗 [Tableau Public Profile]https://public.tableau.com/app/profile/mishane.peirispulle/vizzes
+- 🔗 LinkedIn Profile: https://www.linkedin.com/in/mishane-nisila/
+- 🔗 Tableau Public Profile: https://public.tableau.com/app/profile/mishane.peirispulle/vizzes
 
